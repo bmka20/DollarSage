@@ -36,6 +36,11 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                   <p>Financial Assistant</p>
                 </Link>
               </li>
+              <li>
+                <Link href="/profile">
+                  <p>My Profile</p>
+                </Link>
+              </li>
             </ul>
             <Button />
           </div>
