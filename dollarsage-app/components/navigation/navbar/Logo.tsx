@@ -1,7 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import Button from "./Button";
 
 const Logo = () => {
   //update the size of the logo when the size of the screen changes
@@ -42,7 +41,6 @@ const Logo = () => {
           display: showButton ? "block" : "none",
         }}
       >
-        <Button />
       </div>
     </>
   );
