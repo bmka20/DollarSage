@@ -37,7 +37,7 @@ In essence, DollarSage is not just an app; it's a movement. It's about changing 
 - [Features](#features)
 - [Components](#components)
 - [Data Models](#data-models)
-- [AIChatbot](#ai-Chatbot)
+- [AI Chatbot](#ai-chatbot)
 - [Configuration & Dependencies](#configuration--dependencies)
 - [Setup & Development](#setup--development)
 
