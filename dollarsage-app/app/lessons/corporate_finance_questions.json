@@ -1,0 +1,203 @@
+[
+    {
+      "question": "What is the primary goal of financial management in a corporation?",
+      "choice1": "Maximizing shareholder wealth",
+      "choice2": "Minimizing employee salaries",
+      "choice3": "Maximizing customer satisfaction",
+      "choice4": "Minimizing corporate taxes",
+      "correct": "Maximizing shareholder wealth"
+    },
+    {
+      "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+      "choice1": "Income statement",
+      "choice2": "Cash flow statement",
+      "choice3": "Balance sheet",
+      "choice4": "Statement of retained earnings",
+      "correct": "Balance sheet"
+    },
+    {
+      "question": "What term is used to describe the cost of capital for a company?",
+      "choice1": "Budget",
+      "choice2": "Dividend",
+      "choice3": "WACC (Weighted Average Cost of Capital)",
+      "choice4": "ROI (Return on Investment)",
+      "correct": "WACC (Weighted Average Cost of Capital)"
+    },
+    {
+      "question": "Which financial ratio measures a company's ability to meet its short-term obligations with its current assets?",
+      "choice1": "Debt-to-Equity Ratio",
+      "choice2": "Quick Ratio",
+      "choice3": "Return on Assets",
+      "choice4": "Earnings per Share",
+      "correct": "Quick Ratio"
+    },
+    {
+      "question": "What is the process of analyzing potential investments or projects to determine their financial feasibility?",
+      "choice1": "Capital budgeting",
+      "choice2": "Financial leverage",
+      "choice3": "Working capital management",
+      "choice4": "Cost accounting",
+      "correct": "Capital budgeting"
+    },
+    {
+      "question": "What is the term for the rate of return required by investors to invest in a company's equity?",
+      "choice1": "Cost of debt",
+      "choice2": "Cost of capital",
+      "choice3": "Cost of equity",
+      "choice4": "Return on investment",
+      "correct": "Cost of equity"
+    },
+    {
+      "question": "Which financial statement represents a company's revenues and expenses over a specific period, resulting in profit or loss?",
+      "choice1": "Cash flow statement",
+      "choice2": "Balance sheet",
+      "choice3": "Income statement",
+      "choice4": "Statement of retained earnings",
+      "correct": "Income statement"
+    },
+    {
+      "question": "What is the primary role of a CFO (Chief Financial Officer) in a corporation?",
+      "choice1": "Managing human resources",
+      "choice2": "Overseeing marketing and sales",
+      "choice3": "Financial planning and strategy",
+      "choice4": "Research and development",
+      "correct": "Financial planning and strategy"
+    },
+    {
+      "question": "Which financial metric measures the efficiency of a company's use of its assets in generating sales?",
+      "choice1": "Return on Equity (ROE)",
+      "choice2": "Earnings Before Interest and Taxes (EBIT)",
+      "choice3": "Return on Assets (ROA)",
+      "choice4": "Price-to-Earnings (P/E) Ratio",
+      "correct": "Return on Assets (ROA)"
+    },
+    {
+      "question": "What is the formula for calculating the Net Present Value (NPV) of a project or investment?",
+      "choice1": "NPV = Initial Investment / Discount Rate",
+      "choice2": "NPV = Cash Flows / Initial Investment",
+      "choice3": "NPV = Present Value of Cash Flows - Initial Investment",
+      "choice4": "NPV = Cash Flows / Discount Rate",
+      "correct": "NPV = Present Value of Cash Flows - Initial Investment"
+    },
+    {
+      "question": "Which type of financing involves selling shares of ownership in a company to raise capital?",
+      "choice1": "Debt financing",
+      "choice2": "Equity financing",
+      "choice3": "Asset-based financing",
+      "choice4": "Leasing",
+      "correct": "Equity financing"
+    },
+    {
+      "question": "What is the term for the practice of borrowing money to increase the potential return on an investment?",
+      "choice1": "Leverage",
+      "choice2": "Liquidity",
+      "choice3": "Diversification",
+      "choice4": "Hedge",
+      "correct": "Leverage"
+    },
+    {
+      "question": "Which financial metric measures a company's ability to generate profit from its shareholders' equity?",
+      "choice1": "Gross Margin",
+      "choice2": "Debt-to-Equity Ratio",
+      "choice3": "Return on Equity (ROE)",
+      "choice4": "Price-to-Earnings (P/E) Ratio",
+      "correct": "Return on Equity (ROE)"
+    },
+    {
+      "question": "In capital budgeting, what is the payback period?",
+      "choice1": "The time it takes to recover the initial investment",
+      "choice2": "The time it takes to generate a specific profit margin",
+      "choice3": "The time it takes to double the initial investment",
+      "choice4": "The time it takes to pay off all corporate debt",
+      "correct": "The time it takes to recover the initial investment"
+    },
+    {
+      "question": "What financial statement shows the changes in a company's retained earnings over a specific period?",
+      "choice1": "Balance sheet",
+      "choice2": "Income statement",
+      "choice3": "Cash flow statement",
+      "choice4": "Statement of retained earnings",
+      "correct": "Statement of retained earnings"
+    },
+    {
+      "question": "What is the primary objective of risk management in corporate finance?",
+      "choice1": "Maximizing returns",
+      "choice2": "Minimizing the cost of capital",
+      "choice3": "Reducing the impact of uncertainties on business operations",
+      "choice4": "Increasing market share",
+      "correct": "Reducing the impact of uncertainties on business operations"
+    },
+    {
+      "question": "Which financial ratio measures a company's ability to cover its interest payments with its earnings?",
+      "choice1": "Debt-to-Equity Ratio",
+      "choice2": "Current Ratio",
+      "choice3": "Interest Coverage Ratio",
+      "choice4": "Quick Ratio",
+      "correct": "Interest Coverage Ratio"
+    },
+    {
+      "question": "What is the term for funds set aside by a company for future financial obligations or unexpected losses?",
+      "choice1": "Dividends",
+      "choice2": "Operating income",
+      "choice3": "Reserves",
+      "choice4": "Liabilities",
+      "correct": "Reserves"
+    },
+    {
+      "question": "In financial markets, what does the term 'IPO' stand for?",
+      "choice1": "Internal Profit Opportunity",
+      "choice2": "Investment Portfolio Organizer",
+      "choice3": "Initial Public Offering",
+      "choice4": "International Partnership Organization",
+      "correct": "Initial Public Offering"
+    },
+    {
+      "question": "What is the primary purpose of a stock dividend?",
+      "choice1": "To increase the number of outstanding shares",
+      "choice2": "To distribute cash to shareholders",
+      "choice3": "To reduce the value of existing shares",
+      "choice4": "To pay off corporate debt",
+      "correct": "To increase the number of outstanding shares"
+    },
+    {
+      "question": "What is the role of a financial analyst in a corporation?",
+      "choice1": "Managing day-to-day operations",
+      "choice2": "Conducting market research",
+      "choice3": "Evaluating financial data and making investment recommendations",
+      "choice4": "Overseeing manufacturing processes",
+      "correct": "Evaluating financial data and making investment recommendations"
+    },
+    {
+      "question": "Which financial statement shows the movement of cash into and out of a company during a specific period?",
+      "choice1": "Income statement",
+      "choice2": "Balance sheet",
+      "choice3": "Statement of cash flows",
+      "choice4": "Statement of retained earnings",
+      "correct": "Statement of cash flows"
+    },
+    {
+      "question": "What is the primary purpose of a company's dividend policy?",
+      "choice1": "To attract investors",
+      "choice2": "To minimize taxes",
+      "choice3": "To maximize employee salaries",
+      "choice4": "To reduce expenses",
+      "correct": "To attract investors"
+    },
+    {
+      "question": "What financial metric measures a company's efficiency in managing its accounts receivable?",
+      "choice1": "Quick Ratio",
+      "choice2": "Inventory Turnover",
+      "choice3": "Accounts Receivable Turnover",
+      "choice4": "Return on Assets (ROA)",
+      "correct": "Accounts Receivable Turnover"
+    },
+    {
+      "question": "What financial analysis tool helps determine the financial health of a company by comparing its financial statements over multiple periods?",
+      "choice1": "Financial ratio analysis",
+      "choice2": "Sensitivity analysis",
+      "choice3": "Monte Carlo simulation",
+      "choice4": "Cost-benefit analysis",
+      "correct": "Financial ratio analysis"
+    }
+  ]
+  
