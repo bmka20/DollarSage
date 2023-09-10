@@ -10,7 +10,7 @@ export default function Home() {
               {`Unlock Your Financial Freedom: Discover DollarSage\n`}
             </h1>
             <h1 className="whitespace-pre-line text-5xl font-bold leading-hero text-[#F8E9A1] mb-8">Your Path to Financial Success</h1>
-            <div className="mb-4 text-4xl text-[#374785]">Join DollarSage and becomea Financial Wizard</div>
+            <div className="mb-4 text-4xl text-[#374785]">Join DollarSage and become a Financial Wizard</div>
           </header>
         </div>
         <div className="pt-32 pb-24 text-center bg-[#F76C6C] text-[#F8E9A1]">
