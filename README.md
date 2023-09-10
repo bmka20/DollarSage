@@ -1,5 +1,11 @@
-# DollarSage
+<p align="center">
+    <img src="dollarsage-app/public/assets/images/wizard.png" alt="DollarSage Logo" width="300">
+</p>
 
+
+
+
+# DollarSage
 DollarSage is a comprehensive web application developed with Next.js. This documentation offers an in-depth guide to the application's structure, features, and setup instructions.
 
 ## Table of Contents
