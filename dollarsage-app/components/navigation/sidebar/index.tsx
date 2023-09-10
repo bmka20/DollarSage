@@ -34,9 +34,6 @@ const Sidebar = ({
             <Link href="/leaderboard" onClick={toggle}><p>Leaderboard</p></Link>
           </li>
           <li>
-            <Link href="/assistant" onClick={toggle}><p>Financial Assistant</p></Link>
-          </li>
-          <li>
             <Link href="/profile" onClick={toggle}><p>My Profile</p></Link>
           </li>
         </ul>

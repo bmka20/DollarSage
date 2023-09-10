@@ -43,7 +43,7 @@ const Profile = () => {
           />
         </label>
         <section className="profile-info bg-white rounded-lg shadow-md p-4 mt-5 text-center">
-          <h2 className="text-2xl font-semibold mb-2">{session?.user?.fullName}</h2>
+          <h2 className="text-2xl font-semibold mb-2">Hello {session?.user?.fullName}!</h2>
           <p className="text-lg mb-2">Score: 0</p>
           <p className="text-lg mb-2">Rank: 2</p>
         </section>

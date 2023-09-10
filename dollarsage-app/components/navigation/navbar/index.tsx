@@ -43,7 +43,7 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                   />
                 </svg>
               </button>
-              <ul className="hidden md:flex gap-x-6 text-[#F76C6C]">
+              <ul className="hidden md:flex gap-x-6 text-2xl text-[#F76C6C]">
                 <li>
                   <Link href="/lessons">
                     <p>Lessons</p>
@@ -52,11 +52,6 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                 <li>
                   <Link href="/leaderboard">
                     <p>Leaderboard</p>
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/assistant">
-                    <p>Financial Assistant</p>
                   </Link>
                 </li>
                 <li>
