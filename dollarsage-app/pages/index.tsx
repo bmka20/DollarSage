@@ -6,11 +6,11 @@ export default function Home() {
       <div className="hero bg-base-100">
         <div className="pt-52 pb-52 bg-[#A8D0E6]">
           <header className="text-center">
-            <h1 className="whitespace-pre-line text-5xl font-bold leading-hero text-[#374785] mb-4">
+            <h1 className="whitespace-pre-line text-5xl font-bold leading-hero text-[#374785] mb-8">
               {`Unlock Your Financial Freedom: Discover DollarSage\n`}
             </h1>
-            <h1 className="whitespace-pre-line text-5xl font-bold leading-hero text-[#F8E9A1] mb-8">Your Path to Financial Success</h1>
-            <div className="mb-4 text-4xl text-[#374785]">Join DollarSage and become a Financial Wizard</div>
+            <h1 className="whitespace-pre-line text-5xl font-bold leading-hero text-[#F8E9A1] mb-12">Your Path to Financial Success</h1>
+            <div className="mb-24 text-4xl text-[#374785]">Join DollarSage and become a Financial Wizard</div>
           </header>
         </div>
         <div className="pt-32 pb-24 text-center bg-[#F76C6C] text-[#F8E9A1]">
