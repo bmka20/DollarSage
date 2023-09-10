@@ -43,7 +43,7 @@ const LoginForm = () => {
                 setSubmitError(loginRes.error || "")
             }
             else {
-                router.push("/lessons")
+                router.push("/")
             }
         } catch (error) {
             if (error instanceof AxiosError) {

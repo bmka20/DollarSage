@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.button`
-    background-color: ${props => props.disabled ? 'lightgray' : '#24a0ed'};
+    background-color: ${props => props.disabled ? 'lightgray' : '#F76C6C'};
     color: ${props => props.disabled ? 'black' : '#fff'};
     font-size: 0.9rem;
     padding: 0.8rem;

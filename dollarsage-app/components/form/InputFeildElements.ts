@@ -13,7 +13,7 @@ export const Wrapper = styled.div`
     & svg {
         position: absolute;
         transform: translateX(1rem);
-        color: rgba(0, 0, 0, 0.65);
+        color: rgba(255, 0, 0, 0.65);
     }
 `
 

@@ -1,0 +1,202 @@
+[
+    {
+      "question": "What is Fintech short for?",
+      "choice1": "Financial Technology",
+      "choice2": "Financial Transaction",
+      "choice3": "Fintechology",
+      "choice4": "Financial Tracking",
+      "correct": "Financial Technology"
+    },
+    {
+      "question": "Which technology is the foundation of cryptocurrencies like Bitcoin?",
+      "choice1": "Artificial Intelligence",
+      "choice2": "Blockchain",
+      "choice3": "Quantum Computing",
+      "choice4": "Cloud Computing",
+      "correct": "Blockchain"
+    },
+    {
+      "question": "What is the main advantage of using blockchain technology in financial transactions?",
+      "choice1": "Speed",
+      "choice2": "Centralization",
+      "choice3": "Transparency and security",
+      "choice4": "Lower transaction costs",
+      "correct": "Transparency and security"
+    },
+    {
+      "question": "Which cryptocurrency is often referred to as 'digital silver' to Bitcoin's 'digital gold'?",
+      "choice1": "Ethereum",
+      "choice2": "Litecoin",
+      "choice3": "Ripple (XRP)",
+      "choice4": "Stellar (XLM)",
+      "correct": "Litecoin"
+    },
+    {
+      "question": "What is a smart contract in the context of blockchain?",
+      "choice1": "A legally binding contract between two parties",
+      "choice2": "An automated, self-executing contract with the terms directly written into code",
+      "choice3": "A contract that requires a lawyer's approval",
+      "choice4": "A contract only used in the real estate industry",
+      "correct": "An automated, self-executing contract with the terms directly written into code"
+    },
+    {
+      "question": "What is the process of converting traditional assets like stocks or bonds into digital tokens called?",
+      "choice1": "Tokenization",
+      "choice2": "Digitization",
+      "choice3": "Securitization",
+      "choice4": "Centralization",
+      "correct": "Tokenization"
+    },
+    {
+      "question": "Which cryptocurrency was the first to be created and remains the most well-known?",
+      "choice1": "Ripple (XRP)",
+      "choice2": "Ethereum",
+      "choice3": "Litecoin",
+      "choice4": "Bitcoin",
+      "correct": "Bitcoin"
+    },
+    {
+      "question": "What is the primary purpose of a cryptocurrency wallet?",
+      "choice1": "To exchange cryptocurrencies for fiat currency",
+      "choice2": "To store, send, and receive cryptocurrencies",
+      "choice3": "To mine new cryptocurrencies",
+      "choice4": "To trade cryptocurrencies on the stock market",
+      "correct": "To store, send, and receive cryptocurrencies"
+    },
+    {
+      "question": "What does the term 'HODL' mean in the cryptocurrency community?",
+      "choice1": "High Open, Low Close",
+      "choice2": "Hold On for Dear Life",
+      "choice3": "Hyperbolic Order of Digital Lending",
+      "choice4": "High-Octane Digital Leverage",
+      "correct": "Hold On for Dear Life"
+    },
+    {
+      "question": "What is the maximum supply of Bitcoin?",
+      "choice1": "10 million",
+      "choice2": "21 million",
+      "choice3": "100 million",
+      "choice4": "1 billion",
+      "correct": "21 million"
+    },
+    {
+      "question": "What is a decentralized exchange (DEX) in the context of cryptocurrency?",
+      "choice1": "An exchange operated by a central bank",
+      "choice2": "An exchange that doesn't require users to verify their identity",
+      "choice3": "An exchange that operates independently of a central authority",
+      "choice4": "An exchange that only supports fiat-to-crypto trading",
+      "correct": "An exchange that operates independently of a central authority"
+    },
+    {
+      "question": "Which technology is used for verifying and recording transactions on the Bitcoin blockchain?",
+      "choice1": "Proof of Authority (PoA)",
+      "choice2": "Proof of Stake (PoS)",
+      "choice3": "Proof of Work (PoW)",
+      "choice4": "Proof of Transaction (PoT)",
+      "correct": "Proof of Work (PoW)"
+    },
+    {
+      "question": "What is an ICO (Initial Coin Offering)?",
+      "choice1": "A regulated investment vehicle for cryptocurrencies",
+      "choice2": "A way for a company to raise capital by selling cryptocurrency tokens",
+      "choice3": "An international cryptocurrency organization",
+      "choice4": "A government agency responsible for regulating cryptocurrencies",
+      "correct": "A way for a company to raise capital by selling cryptocurrency tokens"
+    },
+    {
+      "question": "What is the primary purpose of a stablecoin in the cryptocurrency market?",
+      "choice1": "To increase the value of other cryptocurrencies",
+      "choice2": "To provide price stability by being pegged to a stable asset like a fiat currency",
+      "choice3": "To facilitate anonymous transactions",
+      "choice4": "To support smart contracts on the Ethereum blockchain",
+      "correct": "To provide price stability by being pegged to a stable asset like a fiat currency"
+    },
+    {
+      "question": "What is the term for the process of verifying and adding transactions to the blockchain in exchange for cryptocurrency rewards?",
+      "choice1": "Mining",
+      "choice2": "Trading",
+      "choice3": "Staking",
+      "choice4": "Hacking",
+      "correct": "Mining"
+    },
+    {
+      "question": "What is a 'whale' in the context of cryptocurrency?",
+      "choice1": "A large marine mammal",
+      "choice2": "A person or entity that holds a significant amount of cryptocurrency",
+      "choice3": "A small, inexperienced cryptocurrency investor",
+      "choice4": "A type of cryptocurrency wallet",
+      "correct": "A person or entity that holds a significant amount of cryptocurrency"
+    },
+    {
+      "question": "What is the underlying technology that enables cryptocurrencies like Bitcoin to be transferred between users without the need for intermediaries?",
+      "choice1": "Blockchain",
+      "choice2": "Quantum Computing",
+      "choice3": "Artificial Intelligence",
+      "choice4": "Cloud Computing",
+      "correct": "Blockchain"
+    },
+    {
+      "question": "Which cryptocurrency is known for its focus on privacy and anonymity, often used for confidential transactions?",
+      "choice1": "Monero (XMR)",
+      "choice2": "Bitcoin Cash (BCH)",
+      "choice3": "Cardano (ADA)",
+      "choice4": "Dogecoin (DOGE)",
+      "correct": "Monero (XMR)"
+    },
+    {
+      "question": "What is the purpose of a hardware wallet in the context of cryptocurrency?",
+      "choice1": "To mine new cryptocurrencies",
+      "choice2": "To store cryptocurrency private keys offline for added security",
+      "choice3": "To exchange cryptocurrencies for fiat currency",
+      "choice4": "To track the price of cryptocurrencies",
+      "correct": "To store cryptocurrency private keys offline for added security"
+    },
+    {
+      "question": "What is the term for a sudden and significant decrease in the price of a cryptocurrency?",
+      "choice1": "Bull market",
+      "choice2": "HODL",
+      "choice3": "FOMO",
+      "choice4": "Crash",
+      "correct": "Crash"
+    },
+    {
+      "question": "What is the primary function of a cryptocurrency exchange?",
+      "choice1": "To create new cryptocurrencies",
+      "choice2": "To provide interest on cryptocurrency holdings",
+      "choice3": "To facilitate the buying and selling of cryptocurrencies",
+      "choice4": "To issue government-backed digital currencies",
+      "correct": "To facilitate the buying and selling of cryptocurrencies"
+    },
+    {
+      "question": "What is the purpose of a public key in cryptocurrency transactions?",
+      "choice1": "To generate a new cryptocurrency",
+      "choice2": "To keep transactions private",
+      "choice3": "To receive cryptocurrency from others",
+      "choice4": "To prove your identity in the cryptocurrency network",
+      "correct": "To receive cryptocurrency from others"
+    },
+    {
+      "question": "What is a 'fork' in the context of cryptocurrency?",
+      "choice1": "A tool used for mining Bitcoin",
+      "choice2": "A software upgrade or change in the cryptocurrency's protocol",
+      "choice3": "A physical device for storing cryptocurrency",
+      "choice4": "A type of cryptocurrency wallet",
+      "correct": "A software upgrade or change in the cryptocurrency's protocol"
+    },
+    {
+      "question": "Which term describes the process of spreading cryptocurrency investments across a variety of assets to reduce risk?",
+      "choice1": "Mining",
+      "choice2": "Diversification",
+      "choice3": "Staking",
+      "choice4": "Arbitrage",
+      "correct": "Diversification"
+    },
+    {
+      "question": "What is the primary purpose of an Initial Exchange Offering (IEO) in the cryptocurrency space?",
+      "choice1": "To create a new cryptocurrency",
+      "choice2": "To facilitate peer-to-peer transactions",
+      "choice3": "To raise capital by selling cryptocurrency tokens directly on an exchange",
+      "choice4": "To regulate cryptocurrency markets",
+      "correct": "To raise capital by selling cryptocurrency tokens directly on an exchange"
+    }
+  ]

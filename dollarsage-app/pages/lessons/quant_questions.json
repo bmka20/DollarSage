@@ -1,0 +1,202 @@
+[
+    {
+      "question": "What is the primary goal of quantitative finance?",
+      "choice1": "Maximizing shareholder wealth",
+      "choice2": "Minimizing market risk",
+      "choice3": "Achieving high trading volumes",
+      "choice4": "Calculating taxes",
+      "correct": "Maximizing shareholder wealth"
+    },
+    {
+      "question": "In finance, what does the term 'volatility' refer to?",
+      "choice1": "The ease of buying and selling assets",
+      "choice2": "The stability of interest rates",
+      "choice3": "The degree of price fluctuations in an asset or market",
+      "choice4": "The total market capitalization of a stock exchange",
+      "correct": "The degree of price fluctuations in an asset or market"
+    },
+    {
+      "question": "Which statistical measure is used to represent the average value of a set of data points?",
+      "choice1": "Median",
+      "choice2": "Mode",
+      "choice3": "Mean",
+      "choice4": "Standard Deviation",
+      "correct": "Mean"
+    },
+    {
+      "question": "What is the formula for calculating the standard deviation of a dataset?",
+      "choice1": "∑(x - μ)² / n",
+      "choice2": "∑(x - μ)",
+      "choice3": "∑(x - μ) / n",
+      "choice4": "∑(x - μ)²",
+      "correct": "∑(x - μ)² / n"
+    },
+    {
+      "question": "Which type of financial instrument derives its value from the performance of an underlying asset or index?",
+      "choice1": "Fixed-income security",
+      "choice2": "Derivative",
+      "choice3": "Equity security",
+      "choice4": "Money market instrument",
+      "correct": "Derivative"
+    },
+    {
+      "question": "What is the primary purpose of the Capital Asset Pricing Model (CAPM)?",
+      "choice1": "To estimate the expected return of a security",
+      "choice2": "To calculate the price-earnings ratio of a stock",
+      "choice3": "To measure the liquidity of an asset",
+      "choice4": "To assess credit risk",
+      "correct": "To estimate the expected return of a security"
+    },
+    {
+      "question": "What does the term 'portfolio diversification' aim to achieve?",
+      "choice1": "Maximizing returns",
+      "choice2": "Reducing investment risk by spreading investments across different assets",
+      "choice3": "Minimizing taxes",
+      "choice4": "Achieving a high Sharpe ratio",
+      "correct": "Reducing investment risk by spreading investments across different assets"
+    },
+    {
+      "question": "Which statistical concept is used to measure the degree of linear association between two variables?",
+      "choice1": "Standard Deviation",
+      "choice2": "Variance",
+      "choice3": "Correlation",
+      "choice4": "Regression",
+      "correct": "Correlation"
+    },
+    {
+      "question": "What does the Efficient Market Hypothesis (EMH) suggest about financial markets?",
+      "choice1": "They are always perfectly efficient.",
+      "choice2": "Prices fully reflect all available information.",
+      "choice3": "Prices are always irrational and unpredictable.",
+      "choice4": "Markets are controlled by government regulations.",
+      "correct": "Prices fully reflect all available information."
+    },
+    {
+      "question": "In statistics, what is the mode of a dataset?",
+      "choice1": "The most frequently occurring value",
+      "choice2": "The arithmetic average",
+      "choice3": "The middle value when the data is sorted",
+      "choice4": "The highest value in the dataset",
+      "correct": "The most frequently occurring value"
+    },
+    {
+      "question": "What is the main goal of Value at Risk (VaR) analysis in quantitative finance?",
+      "choice1": "To calculate the expected return of an investment",
+      "choice2": "To measure the risk of potential losses in a portfolio",
+      "choice3": "To estimate the volatility of a stock",
+      "choice4": "To determine the tax liability of an investment",
+      "correct": "To measure the risk of potential losses in a portfolio"
+    },
+    {
+      "question": "What is the formula for calculating the mean (average) of a dataset?",
+      "choice1": "∑x",
+      "choice2": "∑(x - μ)",
+      "choice3": "∑(x - μ)²",
+      "choice4": "∑(x) / n",
+      "correct": "∑(x) / n"
+    },
+    {
+      "question": "Which statistical distribution is commonly used to model asset returns in quantitative finance?",
+      "choice1": "Poisson distribution",
+      "choice2": "Normal distribution",
+      "choice3": "Binomial distribution",
+      "choice4": "Exponential distribution",
+      "correct": "Normal distribution"
+    },
+    {
+      "question": "What does the Sharpe ratio measure in quantitative finance?",
+      "choice1": "The risk-adjusted return of an investment",
+      "choice2": "The total return of an investment",
+      "choice3": "The liquidity of an asset",
+      "choice4": "The correlation between two assets",
+      "correct": "The risk-adjusted return of an investment"
+    },
+    {
+      "question": "Which financial model is used to estimate the future price of an underlying asset based on its historical prices and volatility?",
+      "choice1": "Black-Scholes Model",
+      "choice2": "Capital Asset Pricing Model (CAPM)",
+      "choice3": "Efficient Market Hypothesis (EMH)",
+      "choice4": "Binomial Option Pricing Model",
+      "correct": "Black-Scholes Model"
+    },
+    {
+      "question": "What is the primary purpose of stress testing in quantitative finance?",
+      "choice1": "To estimate the expected return of an investment",
+      "choice2": "To measure the market risk of a portfolio",
+      "choice3": "To calculate the standard deviation of asset returns",
+      "choice4": "To analyze the tax implications of a financial transaction",
+      "correct": "To measure the market risk of a portfolio"
+    },
+    {
+      "question": "Which statistical measure provides a measure of the spread or dispersion of a dataset?",
+      "choice1": "Mean",
+      "choice2": "Median",
+      "choice3": "Variance",
+      "choice4": "Mode",
+      "correct": "Variance"
+    },
+    {
+      "question": "What is the formula for calculating the variance of a dataset?",
+      "choice1": "∑(x)",
+      "choice2": "∑(x - μ)",
+      "choice3": "∑(x - μ)² / n",
+      "choice4": "∑(x - μ) / n",
+      "correct": "∑(x - μ)² / n"
+    },
+    {
+      "question": "What is the primary objective of risk management in quantitative finance?",
+      "choice1": "Maximizing returns",
+      "choice2": "Minimizing the cost of capital",
+      "choice3": "Minimizing the impact of potential losses",
+      "choice4": "Calculating taxes",
+      "correct": "Minimizing the impact of potential losses"
+    },
+    {
+      "question": "What is the formula for calculating the correlation coefficient (ρ) between two variables?",
+      "choice1": "ρ = ∑(x - μ)²",
+      "choice2": "ρ = ∑(x - μ) / n",
+      "choice3": "ρ = ∑(x - μ)(y - ν) / √[∑(x - μ)² * ∑(y - ν)²]",
+      "choice4": "ρ = ∑(x)(y) / n",
+      "correct": "ρ = ∑(x - μ)(y - ν) / √[∑(x - μ)² * ∑(y - ν)²]"
+    },
+    {
+      "question": "What does the Monte Carlo method involve in quantitative finance?",
+      "choice1": "Calculating portfolio returns",
+      "choice2": "Estimating option prices through simulation",
+      "choice3": "Analyzing market trends",
+      "choice4": "Calculating the standard deviation of asset returns",
+      "correct": "Estimating option prices through simulation"
+    },
+    {
+      "question": "In quantitative finance, what is the primary use of the Black-Scholes Model?",
+      "choice1": "Calculating the mean return of a portfolio",
+      "choice2": "Valuing European-style options",
+      "choice3": "Estimating market risk",
+      "choice4": "Calculating the variance of asset returns",
+      "correct": "Valuing European-style options"
+    },
+    {
+      "question": "What is the main objective of regression analysis in quantitative finance?",
+      "choice1": "To calculate the mean return of an investment",
+      "choice2": "To identify relationships between variables and make predictions",
+      "choice3": "To measure the risk of a portfolio",
+      "choice4": "To estimate the tax liability of an investment",
+      "correct": "To identify relationships between variables and make predictions"
+    },
+    {
+      "question": "Which statistical distribution is used to model extreme events and tail risk in finance?",
+      "choice1": "Normal distribution",
+      "choice2": "Cauchy distribution",
+      "choice3": "Binomial distribution",
+      "choice4": "Poisson distribution",
+      "correct": "Cauchy distribution"
+    },
+    {
+      "question": "What is the primary purpose of calculating the compound annual growth rate (CAGR) in quantitative finance?",
+      "choice1": "To estimate future stock prices",
+      "choice2": "To calculate tax liabilities",
+      "choice3": "To determine the average annual return of an investment over a specified period",
+      "choice4": "To measure portfolio risk",
+      "correct": "To determine the average annual return of an investment over a specified period"
+    }
+  ]

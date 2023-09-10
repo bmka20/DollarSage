@@ -1,0 +1,202 @@
+[
+    {
+      "question": "What is the primary goal of personal financial planning?",
+      "choice1": "Accumulating as much wealth as possible",
+      "choice2": "Achieving financial security and well-being",
+      "choice3": "Minimizing taxes",
+      "choice4": "Maximizing credit card rewards",
+      "correct": "Achieving financial security and well-being"
+    },
+    {
+      "question": "Which of the following is an example of a fixed expense?",
+      "choice1": "Groceries",
+      "choice2": "Rent or Mortgage",
+      "choice3": "Dining out",
+      "choice4": "Entertainment",
+      "correct": "Rent or Mortgage"
+    },
+    {
+      "question": "What does the term 'APR' stand for in the context of loans and credit cards?",
+      "choice1": "Annual Payment Requirement",
+      "choice2": "Average Payment Rate",
+      "choice3": "Annual Percentage Rate",
+      "choice4": "Average Principal Reduction",
+      "correct": "Annual Percentage Rate"
+    },
+    {
+      "question": "Which type of insurance provides coverage for damage to your own vehicle in an accident?",
+      "choice1": "Health Insurance",
+      "choice2": "Homeowners Insurance",
+      "choice3": "Auto Insurance",
+      "choice4": "Life Insurance",
+      "correct": "Auto Insurance"
+    },
+    {
+      "question": "What is the purpose of a 401(k) or a similar employer-sponsored retirement plan?",
+      "choice1": "To fund a vacation",
+      "choice2": "To save for a down payment on a home",
+      "choice3": "To save for retirement",
+      "choice4": "To pay off credit card debt",
+      "correct": "To save for retirement"
+    },
+    {
+      "question": "When should you start saving for retirement?",
+      "choice1": "In your 50s",
+      "choice2": "As soon as you graduate from college",
+      "choice3": "When you turn 40",
+      "choice4": "When you reach retirement age",
+      "correct": "As soon as you graduate from college"
+    },
+    {
+      "question": "What is the key advantage of diversifying your investment portfolio?",
+      "choice1": "It guarantees high returns",
+      "choice2": "It eliminates all investment risk",
+      "choice3": "It reduces risk by spreading investments across different asset classes",
+      "choice4": "It increases the potential for short-term gains",
+      "correct": "It reduces risk by spreading investments across different asset classes"
+    },
+    {
+      "question": "What is a FICO score used for?",
+      "choice1": "Calculating your income tax",
+      "choice2": "Determining your eligibility for student loans",
+      "choice3": "Assessing your creditworthiness",
+      "choice4": "Estimating your retirement income needs",
+      "correct": "Assessing your creditworthiness"
+    },
+    {
+      "question": "Which of the following is considered a good practice for managing credit cards?",
+      "choice1": "Only make minimum payments on your balance",
+      "choice2": "Use your credit card for all purchases to earn rewards",
+      "choice3": "Pay your credit card balance in full each month",
+      "choice4": "Open multiple credit cards to increase your credit limit",
+      "correct": "Pay your credit card balance in full each month"
+    },
+    {
+      "question": "What is the purpose of an emergency fund?",
+      "choice1": "Funding vacations",
+      "choice2": "Covering unexpected expenses",
+      "choice3": "Purchasing luxury items",
+      "choice4": "Paying off long-term debt",
+      "correct": "Covering unexpected expenses"
+    },
+    {
+      "question": "Which of the following is a tax-advantaged retirement account that allows for tax-free withdrawals if certain conditions are met?",
+      "choice1": "Traditional IRA",
+      "choice2": "401(k)",
+      "choice3": "Roth IRA",
+      "choice4": "Savings account",
+      "correct": "Roth IRA"
+    },
+    {
+      "question": "What is the rule of thumb for the recommended percentage of your income to save for retirement?",
+      "choice1": "5%",
+      "choice2": "10%",
+      "choice3": "20%",
+      "choice4": "30%",
+      "correct": "20%"
+    },
+    {
+      "question": "What does the term 'liquidity' refer to in personal finance?",
+      "choice1": "The ability to easily convert assets into cash",
+      "choice2": "The amount of debt you owe",
+      "choice3": "The total value of your assets",
+      "choice4": "The interest rate on a savings account",
+      "correct": "The ability to easily convert assets into cash"
+    },
+    {
+      "question": "Which of the following investments is typically considered the riskiest but has the potential for the highest returns?",
+      "choice1": "Savings account",
+      "choice2": "U.S. Treasury bonds",
+      "choice3": "Stocks",
+      "choice4": "Certificates of deposit (CDs)",
+      "correct": "Stocks"
+    },
+    {
+      "question": "What is the primary purpose of a will?",
+      "choice1": "To specify funeral arrangements",
+      "choice2": "To distribute assets after your death",
+      "choice3": "To outline your monthly budget",
+      "choice4": "To appoint a financial advisor",
+      "correct": "To distribute assets after your death"
+    },
+    {
+      "question": "What is the purpose of life insurance?",
+      "choice1": "To provide income during retirement",
+      "choice2": "To pay for college tuition",
+      "choice3": "To protect loved ones financially in case of the policyholder's death",
+      "choice4": "To cover medical expenses",
+      "correct": "To protect loved ones financially in case of the policyholder's death"
+    },
+    {
+      "question": "What does the term 'compound interest' mean?",
+      "choice1": "Interest paid on a loan",
+      "choice2": "Interest earned on interest previously earned",
+      "choice3": "A one-time interest payment",
+      "choice4": "Interest earned on an investment before taxes",
+      "correct": "Interest earned on interest previously earned"
+    },
+    {
+      "question": "Which of the following is a tax-deductible expense for homeowners?",
+      "choice1": "Rent payments",
+      "choice2": "Property taxes",
+      "choice3": "Grocery bills",
+      "choice4": "Car insurance premiums",
+      "correct": "Property taxes"
+    },
+    {
+      "question": "What is the purpose of a credit report?",
+      "choice1": "To show your credit card balance",
+      "choice2": "To list your monthly expenses",
+      "choice3": "To track your investment returns",
+      "choice4": "To provide a history of your credit usage and payment history",
+      "correct": "To provide a history of your credit usage and payment history"
+    },
+    {
+      "question": "How can you lower your monthly utility bills?",
+      "choice1": "By increasing your usage of electricity and water",
+      "choice2": "By setting the thermostat to a consistent temperature",
+      "choice3": "By leaving lights and appliances on when not in use",
+      "choice4": "By using space heaters instead of central heating",
+      "correct": "By setting the thermostat to a consistent temperature"
+    },
+    {
+      "question": "What is the recommended debt-to-income ratio when applying for a mortgage?",
+      "choice1": "10%",
+      "choice2": "20%",
+      "choice3": "30%",
+      "choice4": "43%",
+      "correct": "43%"
+    },
+    {
+      "question": "Which of the following is an example of a tax-deferred retirement account?",
+      "choice1": "Roth IRA",
+      "choice2": "401(k)",
+      "choice3": "Regular savings account",
+      "choice4": "Checking account",
+      "correct": "401(k)"
+    },
+    {
+      "question": "What is the primary purpose of a budget?",
+      "choice1": "To restrict spending",
+      "choice2": "To track income",
+      "choice3": "To plan and manage finances",
+      "choice4": "To invest in stocks",
+      "correct": "To plan and manage finances"
+    },
+    {
+      "question": "What is a deductible in an insurance policy?",
+      "choice1": "The total coverage amount",
+      "choice2": "The portion of a claim that you must pay before insurance kicks in",
+      "choice3": "The premium paid for the policy",
+      "choice4": "The maximum coverage amount",
+      "correct": "The portion of a claim that you must pay before insurance kicks in"
+    },
+    {
+      "question": "How can you reduce the risk of identity theft?",
+      "choice1": "Share your personal information freely online",
+      "choice2": "Keep all your passwords written down in one place",
+      "choice3": "Shred sensitive documents before disposing of them",
+      "choice4": "Use the same password for all your online accounts",
+      "correct": "Shred sensitive documents before disposing of them"
+    }
+  ]

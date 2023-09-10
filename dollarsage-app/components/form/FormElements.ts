@@ -7,10 +7,10 @@ export const Container = styled.div`
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f9f9f9;
+    background-color: #F76C6C;
 
     @media (max-width: 768px) {
-        background-color: #fff;
+        background-color: #F76C6C;
     }
 `
 export const Form = styled.form`
@@ -44,7 +44,7 @@ export const FormTitle = styled.h2`
 `
 
 export const Link = styled(NextLink)`
-    color: #5eb4c8;
+    color: #F76C6C;
     align-self: flex-end;
     transition: all 0.5s;
     font-size: 0.8rem;
